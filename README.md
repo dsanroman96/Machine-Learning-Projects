@@ -5,6 +5,6 @@
 - [House Prices Prediction:](https://github.com/dsanroman96/Machine-Learning-Projects/blob/main/House_Price_Prediction_Linear_Regression.ipynb) Project primary focused on data preprocessing for later predicting house prices with linear regression.
 
 ## Algorithms:
-- [Neural Network from scratch:](https://github.com/dsanroman96/Machine-Learning-Projects/blob/main/Neural_Network_from_scratch.ipynb) CNN from scratch based on Andrew NG Deep Learning courses.
+- [Neural Network from scratch:](https://github.com/dsanroman96/Machine-Learning-Projects/blob/main/Neural_Network_from_scratch.ipynb) NN from scratch based on Andrew NG Deep Learning courses.
 - [Linear Regression from scratch:](https://github.com/dsanroman96/Machine-Learning-Projects/blob/main/Linear_Regression.ipynb).
 
